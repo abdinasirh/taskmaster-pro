@@ -84,7 +84,6 @@ $("#task-form-modal .btn-primary").click(function() {
 
 
 
-
 // remove all tasks
 $("#remove-tasks").on("click", function() {
   for (var key in tasks) {
